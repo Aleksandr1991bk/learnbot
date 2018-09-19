@@ -1,2 +1,4 @@
 *.log
 setting.py
+__pycache__/
+bot4.py
